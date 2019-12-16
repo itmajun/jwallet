@@ -8,7 +8,8 @@
 * RBF.CPFP 费用可控
 
 # 程序依赖
-[bitcoinj-core](https://bitcoinj.github.io/)
-[protobuf-java]
-[zxing](https://github.com/zxing/zxing)
-[okhttp3](https://square.github.io/okhttp/)
+* [bitcoinj-core](https://bitcoinj.github.io/)
+* [protobuf-java]
+* [zxing](https://github.com/zxing/zxing)
+* [okhttp3](https://square.github.io/okhttp/)
+
